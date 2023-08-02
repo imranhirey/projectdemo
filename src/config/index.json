@@ -1,0 +1,160 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": ""
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Personal Touch ",
+    "subtitle": "Funerals",
+    "description": "Welcome to London's Premier Full-Service Funeral Arrangement Provider – Your Trusted One-Stop-Shop for Comprehensive Funeral Services",
+    "img": "https://static.wixstatic.com/media/477213_9f87eadc9b024cfb94d3deed478cde94~mv2_d_4104_2736_s_4_2.jpg/v1/fill/w_1846,h_800,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/477213_9f87eadc9b024cfb94d3deed478cde94~mv2_d_4104_2736_s_4_2.jpg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Our Services",
+    "items": [
+      {
+        "title": "Comprehensive Funeral Arrangements",
+        "description": "From the moment you reach out to us, we handle every detail with sensitivity and efficiency, ensuring a smooth and dignified process",
+        "img": "https://www.magnolia-flowers.co.uk/Websites/836/images/product/1867783098large.jpg?ver=3"
+      },
+      {
+        "title": "Bespoke Florist Services",
+        "description": "Our in-house florist specializes in crafting exquisite floral tributes, reflecting the individuality and essence of your loved one.",
+        "img": "https://m.media-amazon.com/images/I/61UYd9tIedS._AC_SL1090_.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Our Features ",
+    "subtitle": "This is why you should choose us",
+    "description": "We are a family-run business with over 20 years of experience in the funeral industry. We are committed to providing a personal and compassionate service, tailored to your needs and budget. We are available 24/7 to assist you in your time of need.",
+    "items": [
+      {
+        "name": "End to End Service",
+        "description": "We handle every aspect of the funeral arrangements, from the initial consultation to the final farewell.",
+        "icon": "https://img.icons8.com/?size=512&id=Sg9H2YzVoVEu&format=png"
+      },
+      {
+        "name": "Personalized Service",
+        "description": "We understand that every family is unique, and we tailor our services to your needs and budget.",
+        "icon": "https://www.shutterstock.com/image-vector/magnifying-glass-looking-people-icon-600w-574664179.jpg"
+      },
+      {
+        "name": "24/7 Support",
+        "description": "We are available 24/7 to assist you in your time of need.",
+        "icon": "https://www.shutterstock.com/image-vector/customer-support-service-agent-headset-600w-281437493.jpg"
+      },
+      {
+        "name": "Professional Staff",
+        "description": "Our staff are highly trained and experienced in all aspects of funeral arrangements.",
+        "icon": "https://img.icons8.com/?size=512&id=vHDSLRQM4WrN&format=png"
+      }
+    ]
+  },
+
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Basic Farewell Package",
+        "price": "$3042",
+        "priceDetails": "",
+        "features": [
+          "Traditional Burial Service",
+          "Essential Funeral Arrangements",
+          "Basic Floral Tributes",
+          "Funeral Stationery",
+          "Cortege and Transportation",
+          "Basic Support"
+        ]
+      },
+      {
+        "name": "Cremation Farewell Package",
+        "price": "$1900",
+        "priceDetails": "",
+
+        "features": [
+          "Cremation Service",
+          "Cremation Ceremony Arrangements",
+          "Memorial Urn",
+          "Funeral Stationery",
+          "Cortege and Transportation",
+          "Basic Support"
+        ]
+      },
+      {
+        "name": "Enhanced Farewell Package",
+        "price": "Customized",
+        "priceDetails": "",
+        "features": [
+          "Tailored Funeral Arrangements",
+          "Bespoke Floral Tributes",
+          "Extensive Funeral Stationery Options",
+          "Audio & Visual Media Services for Live Streaming and Videos",
+          "Repatriation Services to the West Indies & Europe",
+          "Priority Support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "",
+      "twitter": "",
+      "linkedin": ""
+    }
+  }
+}
